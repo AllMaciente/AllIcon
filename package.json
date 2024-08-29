@@ -1,7 +1,13 @@
 {
-  "name": "allicon",
-  "displayName": "AllIcon",
-  "description": "My Icon Pack for AllMaciente",
+  "icon": "icons/Icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AllMaciente/AllTheme.git"
+  },
+  "name": "vscode-all-theme",
+  "displayName": "vscode-all-theme",
+  "description": "My Themes Pack for AllMaciente",
+  "publisher": "AllMaciente",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"
@@ -12,9 +18,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "AllIcon",
+        "label": "AllTheme",
         "uiTheme": "vs-dark",
-        "path": "./themes/AllIcon-color-theme.json"
+        "path": "./theme/color-theme.json"
+      }],
+    "iconThemes": [
+      {
+        "id": "vscode-allicon-theme",
+        "label": "AllTheme",
+        "path": "icons.json"
       }
     ]
   }

@@ -1,4 +1,4 @@
-# allicon README
+# AllTheme
 
 ## Working with Markdown
 
