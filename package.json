@@ -1,0 +1,21 @@
+{
+  "name": "allicon",
+  "displayName": "AllIcon",
+  "description": "My Icon Pack for AllMaciente",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AllIcon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AllIcon-color-theme.json"
+      }
+    ]
+  }
+}
