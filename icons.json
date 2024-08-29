@@ -263,7 +263,8 @@
 		"expressive-code": { "iconPath": "./icons/files/expressive-code.svg" },
 		"lunaria": { "iconPath": "./icons/files/lunaria.svg" },
 		"func": { "iconPath": "./icons/files/func.svg" },
-        "zip":{"iconPath":"./icons/files/zip.svg"}
+        "zip":{"iconPath":"./icons/files/zip.svg"},
+		"vsix":{"iconPath":"./icons/files/vsix.svg"}
 	},
 
 	"fileExtensions": {
@@ -512,7 +513,7 @@
 		"jsx": "react",
 		"tsx": "react-ts",
 		"vsixmanifest": "puzzle",
-		"vsix": "puzzle",
+		"vsix": "vsix",
 		"pdb": "database",
 		"sql": "database",
 		"pks": "database",
