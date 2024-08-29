@@ -67,3 +67,13 @@ Se você gostaria de contribuir para o desenvolvimento deste tema, siga estas et
 4. Faça um push para a branch (`git push origin feature/nova-feature`).
 5. Crie um Pull Request.
 
+## Agradecimentos
+
+Este tema é baseado em trabalhos de outros desenvolvedores que foram uma inspiração e ajudaram a moldar a versão final. 
+
+- [Min Theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme) por Miguel Solorio - Licença MIT
+- [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) por Azemoh - Licença MIT
+- [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols) por Miguel Solorio - Licença MIT
+
+Todos esses temas são licenciados sob a Licença MIT. O seu uso como base para este tema está em conformidade com suas licenças.
+
