@@ -264,7 +264,10 @@
 		"lunaria": { "iconPath": "./icons/files/lunaria.svg" },
 		"func": { "iconPath": "./icons/files/func.svg" },
         "zip":{"iconPath":"./icons/files/zip.svg"},
-		"vsix":{"iconPath":"./icons/files/vsix.svg"}
+		"vsix":{"iconPath":"./icons/files/vsix.svg"},
+		"css":{"iconPath":"./icons/files/css.svg"},
+		"html":{"iconPath":"./icons/files/html.svg"}
+		
 	},
 
 	"fileExtensions": {
@@ -558,7 +561,7 @@
 		"ods": "csv",
 		"ipynb": "notebook",
 		"svg": "svg",
-		"css": "brackets-sky",
+		"css": "css",
 		"test": "code-orange",
 		"js": "js",
 		"mjs": "js",
@@ -567,7 +570,7 @@
 		"res": "rescript",
 		"resi": "rescript-interface",
 		"json": "brackets-yellow",
-		"html": "code-orange",
+		"html": "html",
 		"md": "markdown",
 		"png": "image",
 		"jpeg": "image",
@@ -1456,7 +1459,9 @@
 		"smtp": "folder-mail",
 		"mailers": "folder-mail",
 		"image": "folder-images",
-		"images": "folder-images"
+		"images": "folder-images",
+		"img": "folder-images",
+		"imgs": "folder-images"
 	},
 	"hidesExplorerArrows": false,
 	"file": "document",

@@ -1,19 +1,31 @@
 {
-  "icon": "icons/Icon.png",
+  "icon": "imgs/Icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/AllMaciente/AllTheme.git"
   },
   "name": "vscode-all-theme",
-  "displayName": "vscode-all-theme",
+  "displayName": "AllTheme",
   "description": "My Themes Pack for AllMaciente",
   "publisher": "AllMaciente",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark-theme",
+    "vs-dark",
+    "color-theme",
+    "icon-theme",
+    "custom-theme",
+    "programming",
+    "development",
+    "VSCode",
+    "AllTheme"
   ],
   "contributes": {
     "themes": [
