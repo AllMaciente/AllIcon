@@ -8,7 +8,7 @@
   "displayName": "AllTheme",
   "description": "My Themes Pack for AllMaciente",
   "publisher": "AllMaciente",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -41,5 +41,13 @@
         "path": "icons.json"
       }
     ]
-  }
+    
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ]
 }
