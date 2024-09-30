@@ -8,7 +8,7 @@
   "displayName": "AllTheme",
   "description": "My Themes Pack for AllMaciente",
   "publisher": "AllMaciente",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -33,7 +33,8 @@
         "label": "AllTheme",
         "uiTheme": "vs-dark",
         "path": "./theme/color-theme.json"
-      }],
+      }
+    ],
     "iconThemes": [
       {
         "id": "vscode-allicon-theme",
@@ -41,7 +42,6 @@
         "path": "icons.json"
       }
     ]
-    
   },
   "license": "MIT",
   "licenses": [
