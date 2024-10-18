@@ -306,7 +306,8 @@
     "zip": { "iconPath": "./icons/files/zip.svg" },
     "vsix": { "iconPath": "./icons/files/vsix.svg" },
     "css": { "iconPath": "./icons/files/css.svg" },
-    "html": { "iconPath": "./icons/files/html.svg" }
+    "html": { "iconPath": "./icons/files/html.svg" },
+    "notes":{"iconPath":"./icons/files/notes.svg"}
   },
 
   "fileExtensions": {
@@ -1294,7 +1295,10 @@
     "webpackfile.mjs": "webpack",
     "webpackfile.ts": "webpack",
     "webpackfile.cts": "webpack",
-    "webpackfile.mts": "webpack"
+    "webpackfile.mts": "webpack",
+    "note.md":"notes",
+    "notes.md":"notes"
+
   },
 
   "languageIds": {
